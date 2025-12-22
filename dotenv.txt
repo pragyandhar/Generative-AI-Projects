@@ -1,0 +1,2 @@
+Create a .env file and write the API keys there
+OPENAI_API = YOUR API KEY WITHOUT QUOTES
