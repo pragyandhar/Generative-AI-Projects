@@ -1,0 +1,9 @@
+langchain>=1.0
+langchain-openai
+openai
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic>=2,<3
+streamlit
