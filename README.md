@@ -12,6 +12,9 @@ A deterministic, domain-locked LangChain agent that specializes in analyzing spe
 - **Chat History**: Maintains conversation history within each session
 - **Literary Reasoning**: Provides concise, evidence-based literary analysis
 
+## Live Working Demonstration
+https://scrict-scope-agent.streamlit.app/
+
 ## 🚀 Quick Start
 
 ### Installation
