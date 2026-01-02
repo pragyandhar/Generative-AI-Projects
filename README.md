@@ -38,6 +38,9 @@ Token-level confidence scoring using OpenAI's logprobs feature for understanding
 - **External APIs**: Visual Crossing Weather API
 - **Python**: 3.12+
 
+## Live Working Demonstration Link
+https://smart-agent-playground.streamlit.app/
+
 ## Project Structure
 
 ```
