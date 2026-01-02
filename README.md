@@ -16,6 +16,9 @@ This project demonstrates advanced usage of LangChain with OpenAI's GPT-4o-mini 
 - **Redis Caching**: Caches responses with configuration-aware keys to prevent redundant API calls
 - **Streaming Output**: Real-time token-by-token response display for better UX
 
+## Live Working Demonstration
+https://ai-tutor-langchain.streamlit.app/
+
 ## File Structure
 
 ### Core Backend (Original Files)
